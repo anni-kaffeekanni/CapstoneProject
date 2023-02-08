@@ -7,7 +7,8 @@ Udacity's Nanodegree capstone project
 2. File Descriptions
 3. Installation
 4. Instructions
-5. Acknowledgements
+5. Further resources
+6. Acknowledgements
     
 ## Introduction
 This Project is part of Udacitys Data Scientist Nanodegree. It countains contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. The data represent user interaction with offers send over the app. 
@@ -53,6 +54,10 @@ The code can be found in this Github Repo https://github.com/anni-kaffeekanni/Ca
 ## Instructions
 
 Runn the jupyter notebook to perform the necessary data preparation steps and train the model.
+
+## Further resources
+
+A Blogpost to this project is available on Medium https://medium.com/@ak_gossmann/analyzing-starbucks-rewards-mobile-online-app-user-interactions-edb1517211a7
 
 ## Acknolegements
 
